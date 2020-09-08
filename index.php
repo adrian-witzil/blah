@@ -29,7 +29,7 @@ include 'templates/header.php';
       
 
 
-<!--Error Modal 2-->
+<!--Error Modal 1-->
 
 <div class="container">
 <div id="modal3" class="modal">
