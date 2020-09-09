@@ -1,6 +1,6 @@
 <html lang="en">
 <head>
-    <title>Welcome To Fight Club</title>
+    <title>Welcome To Fight Club Girls</title>
 <?php 
 
 ob_start();
